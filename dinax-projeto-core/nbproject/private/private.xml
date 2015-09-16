@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group/>
-        <group name="Group 20150910-11:06:34"/>
+        <group name="Group 20150910-11:06:34">
+            <file>file:/C:/Users/AmbienteDesen/Documents/Ambiente%20de%20Desenvolvimento/Dropbox/Ambiente%20Desenvolvimento/Codificacao/Projeto/Dinax/dinax-projeto-core/src/dinax/projeto/core/impl/dao/AbstractJdbcDAO.java</file>
+            <file>file:/C:/Users/AmbienteDesen/Documents/Ambiente%20de%20Desenvolvimento/Dropbox/Ambiente%20Desenvolvimento/Codificacao/Projeto/Dinax/dinax-projeto-core/src/dinax/projeto/core/impl/dao/ProdutoDAO.java</file>
+        </group>
     </open-files>
 </project-private>
