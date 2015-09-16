@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/dinax-projeto-core/build/
+/dinax-projeto-dominio/build/
+/dinax-projeto-dominio/dist/
+/dinax-projeto-core/dist/
