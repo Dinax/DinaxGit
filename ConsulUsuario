@@ -1,0 +1,10 @@
+{
+  "id" : "00001",
+  "nome" : "Regis Calderaro",
+  "nivel" : "Nivel 1",
+  "rg" : "45.333.789.22",
+  "cpf" : "123.456.789.11",
+  "cep" : "09162-000",
+  "grupo" : ["Grupo1",   "Grupo2",  "Grupo3"]
+ 
+}
